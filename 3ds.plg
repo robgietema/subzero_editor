@@ -1,0 +1,125 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 3ds - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\WIN98\TEMP\RSPB225.TMP" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"3ds___Win32_Debug/3ds.pch" /YX /Fo"3ds___Win32_Debug/" /Fd"3ds___Win32_Debug/" /FD /GZ /c 
+"C:\l3g0\src\3ds\3ds_conv.cpp"
+"C:\l3g0\src\3ds\camera.cpp"
+"C:\l3g0\src\3ds\color_24.cpp"
+"C:\l3g0\src\3ds\color_f.cpp"
+"C:\l3g0\src\3ds\face_array.cpp"
+"C:\l3g0\src\3ds\file_3ds.cpp"
+"C:\l3g0\src\3ds\float_percentage.cpp"
+"C:\l3g0\src\3ds\int_percentage.cpp"
+"C:\l3g0\src\lg_buffer_functions.cpp"
+"C:\l3g0\src\lg_print.cpp"
+"C:\l3g0\src\3ds\light.cpp"
+"C:\l3g0\src\3ds\light_off.cpp"
+"C:\l3g0\src\3ds\lin_color_24.cpp"
+"C:\l3g0\src\3ds\lin_color_f.cpp"
+"C:\l3g0\src\3ds\m3d_version.cpp"
+"C:\l3g0\src\3ds\m3dmagic.cpp"
+"C:\l3g0\src\3ds\master_scale.cpp"
+"C:\l3g0\src\3ds\mat_ambient.cpp"
+"C:\l3g0\src\3ds\mat_diffuse.cpp"
+"C:\l3g0\src\3ds\mat_entry.cpp"
+"C:\l3g0\src\3ds\mat_name.cpp"
+"C:\l3g0\src\3ds\mat_shading.cpp"
+"C:\l3g0\src\3ds\mat_shininess.cpp"
+"C:\l3g0\src\3ds\mat_specular.cpp"
+"C:\l3g0\src\3ds\mat_transparency.cpp"
+"C:\l3g0\src\3ds\mdata.cpp"
+"C:\l3g0\src\3ds\mesh_version.cpp"
+"C:\l3g0\src\3ds\msh_mat_group.cpp"
+"C:\l3g0\src\3ds\n_tri_object.cpp"
+"C:\l3g0\src\3ds\named_object.cpp"
+"C:\l3g0\src\3ds\point_array.cpp"
+"C:\l3g0\src\3ds\spotlight.cpp"
+]
+Creating command line "cl.exe @C:\WIN98\TEMP\RSPB225.TMP" 
+Creating temporary file "C:\WIN98\TEMP\RSPB226.TMP" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"3ds___Win32_Debug/3ds.pdb" /debug /machine:I386 /out:"3ds___Win32_Debug/3ds.exe" /pdbtype:sept 
+.\3ds___Win32_Debug\3ds_conv.obj
+.\3ds___Win32_Debug\camera.obj
+.\3ds___Win32_Debug\color_24.obj
+.\3ds___Win32_Debug\color_f.obj
+.\3ds___Win32_Debug\face_array.obj
+.\3ds___Win32_Debug\file_3ds.obj
+.\3ds___Win32_Debug\float_percentage.obj
+.\3ds___Win32_Debug\int_percentage.obj
+.\3ds___Win32_Debug\lg_buffer_functions.obj
+.\3ds___Win32_Debug\lg_print.obj
+.\3ds___Win32_Debug\light.obj
+.\3ds___Win32_Debug\light_off.obj
+.\3ds___Win32_Debug\lin_color_24.obj
+.\3ds___Win32_Debug\lin_color_f.obj
+.\3ds___Win32_Debug\m3d_version.obj
+.\3ds___Win32_Debug\m3dmagic.obj
+.\3ds___Win32_Debug\master_scale.obj
+.\3ds___Win32_Debug\mat_ambient.obj
+.\3ds___Win32_Debug\mat_diffuse.obj
+.\3ds___Win32_Debug\mat_entry.obj
+.\3ds___Win32_Debug\mat_name.obj
+.\3ds___Win32_Debug\mat_shading.obj
+.\3ds___Win32_Debug\mat_shininess.obj
+.\3ds___Win32_Debug\mat_specular.obj
+.\3ds___Win32_Debug\mat_transparency.obj
+.\3ds___Win32_Debug\mdata.obj
+.\3ds___Win32_Debug\mesh_version.obj
+.\3ds___Win32_Debug\msh_mat_group.obj
+.\3ds___Win32_Debug\n_tri_object.obj
+.\3ds___Win32_Debug\named_object.obj
+.\3ds___Win32_Debug\point_array.obj
+.\3ds___Win32_Debug\spotlight.obj
+]
+Creating command line "link.exe @C:\WIN98\TEMP\RSPB226.TMP"
+<h3>Output Window</h3>
+Compiling...
+3ds_conv.cpp
+camera.cpp
+color_24.cpp
+color_f.cpp
+face_array.cpp
+file_3ds.cpp
+float_percentage.cpp
+int_percentage.cpp
+lg_buffer_functions.cpp
+lg_print.cpp
+light.cpp
+light_off.cpp
+lin_color_24.cpp
+lin_color_f.cpp
+m3d_version.cpp
+m3dmagic.cpp
+master_scale.cpp
+mat_ambient.cpp
+mat_diffuse.cpp
+mat_entry.cpp
+mat_name.cpp
+mat_shading.cpp
+mat_shininess.cpp
+mat_specular.cpp
+mat_transparency.cpp
+mdata.cpp
+mesh_version.cpp
+msh_mat_group.cpp
+n_tri_object.cpp
+named_object.cpp
+point_array.cpp
+spotlight.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+3ds.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

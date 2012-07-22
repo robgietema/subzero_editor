@@ -1,0 +1,140 @@
+Reading texture: data/textures/font.tga
+Width, Height, Bpp: 256, 256, 24
+Reading texture: data/textures/editor/select_selected.tga
+Width, Height, Bpp: 256, 256, 24
+Reading texture: data/textures/editor/select.tga
+Width, Height, Bpp: 256, 256, 24
+Reading texture: data/textures/walls/t00.tga
+Width, Height, Bpp: 128, 128, 24
+Reading texture: data/textures/walls/t10.tga
+Width, Height, Bpp: 128, 128, 24
+Reading texture: data/textures/walls/t20.tga
+Width, Height, Bpp: 128, 128, 24
+Reading texture: data/textures/walls/t30.tga
+Width, Height, Bpp: 128, 128, 24
+Reading texture: data/textures/walls/t40.tga
+Width, Height, Bpp: 128, 128, 24
+Reading texture: data/textures/walls/t50.tga
+Width, Height, Bpp: 128, 128, 24
+Reading texture: data/textures/walls/t60.tga
+Width, Height, Bpp: 128, 256, 24
+Reading texture: data/textures/walls/t70.tga
+Width, Height, Bpp: 128, 256, 24
+Reading texture: data/textures/items/i0.tga
+Width, Height, Bpp: 64, 64, 24
+Reading texture: data/textures/items/i1.tga
+Width, Height, Bpp: 64, 64, 24
+Reading texture: data/textures/items/i2.tga
+Width, Height, Bpp: 64, 64, 24
+Reading texture: data/textures/items/i3.tga
+Width, Height, Bpp: 64, 64, 24
+Reading texture: data/textures/items/i4.tga
+Width, Height, Bpp: 64, 128, 24
+Reading texture: data/textures/enemies/s0.tga
+Width, Height, Bpp: 64, 128, 24
+Reading texture: data/textures/enemies/s1.tga
+Width, Height, Bpp: 64, 128, 24
+Reading texture: data/textures/enemies/s2.tga
+Width, Height, Bpp: 128, 64, 24
+Reading texture: data/textures/critters/c0.tga
+Width, Height, Bpp: 64, 32, 24
+Reading texture: data/textures/critters/c1.tga
+Width, Height, Bpp: 32, 64, 24
+Reading texture: data/textures/critters/c2.tga
+Width, Height, Bpp: 64, 64, 24
+Reading texture: data/textures/editor/new.tga
+Width, Height, Bpp: 32, 32, 32
+Reading texture: data/textures/editor/open.tga
+Width, Height, Bpp: 32, 32, 32
+Reading texture: data/textures/editor/save.tga
+Width, Height, Bpp: 32, 32, 32
+Reading texture: data/textures/editor/verts.tga
+Width, Height, Bpp: 32, 32, 32
+Reading texture: data/textures/editor/verts_selected.tga
+Width, Height, Bpp: 32, 32, 32
+Reading texture: data/textures/editor/verts_tune.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/verts_tune_selected.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/objects.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/objects_selected.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/cammove.tga
+Width, Height, Bpp: 32, 32, 32
+Reading texture: data/textures/editor/cammove_selected.tga
+Width, Height, Bpp: 32, 32, 32
+Reading texture: data/textures/editor/animpoint.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/range.tga
+Width, Height, Bpp: 128, 128, 24
+Reading texture: data/textures/editor/framesperbrick.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/framesbetweenbricks.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/group_move.tga
+Input file could not be opened
+Reading texture: data/textures/editor/group_move_selected.tga
+Input file could not be opened
+Reading texture: data/textures/editor/group_rotate.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/group_rotate_selected.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/group_rotatepoint.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/group_rotatepoint_selected.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/sortbricks.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/group_tune.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/group_tune_selected.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/clonegroup.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/replacecolor.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/objectgroups.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/objectgroups_selected.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/blocktypes.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/blocktypes_selected.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/colors.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/colors_selected.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/objectgroup.tga
+Width, Height, Bpp: 256, 32, 24
+Reading texture: data/textures/editor/objectgroup_selected.tga
+Width, Height, Bpp: 256, 32, 24
+Reading texture: data/textures/editor/editname.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/edittime.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/hide.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/hide_selected.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/prevpage.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/nextpage.tga
+Width, Height, Bpp: 32, 32, 24
+Reading texture: data/textures/editor/newgroup.tga
+Width, Height, Bpp: 32, 32, 32
+Reading texture: data/textures/editor/deletegroup.tga
+Width, Height, Bpp: 32, 32, 32
+Init level values
+Init brick with coordinates: 0.000000, 0.000000, 3.000000
+Init brick with coordinates: 3.000000, 0.000000, 3.000000
+Init brick with coordinates: 6.000000, 0.000000, 3.000000
+Init brick with coordinates: 9.000000, 0.000000, 3.000000
+Init brick with coordinates: 12.000000, 0.000000, 3.000000
+Init brick with coordinates: 15.000000, 0.000000, 3.000000
+Init brick with coordinates: 18.000000, 0.000000, 3.000000
+Init brick with coordinates: 21.000000, 0.000000, 3.000000
+Init brick with coordinates: 24.000000, 0.000000, 3.000000
+Init brick with coordinates: 27.000000, 0.000000, 3.000000
+Mouse pos: 493, 373

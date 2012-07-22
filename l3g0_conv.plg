@@ -1,0 +1,90 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: l3g0_conv - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\Danielle\LOCALS~1\Temp\RSP11B.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fo"l3g0_conv___Win32_Debug/" /Fd"l3g0_conv___Win32_Debug/" /FD /GZ /c 
+"D:\l3g0\src\l3g0_conv.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Danielle\LOCALS~1\Temp\RSP11B.tmp" 
+Creating temporary file "C:\DOCUME~1\Danielle\LOCALS~1\Temp\RSP11C.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"l3g0_conv___Win32_Debug/l3g0_conv.pdb" /debug /machine:I386 /out:"l3g0_conv___Win32_Debug/l3g0_conv.exe" /pdbtype:sept 
+.\l3g0_conv___Win32_Debug\camera.obj
+.\l3g0_conv___Win32_Debug\color_24.obj
+.\l3g0_conv___Win32_Debug\color_f.obj
+.\l3g0_conv___Win32_Debug\face_array.obj
+.\l3g0_conv___Win32_Debug\face_smoothing.obj
+.\l3g0_conv___Win32_Debug\file_3ds.obj
+.\l3g0_conv___Win32_Debug\float_percentage.obj
+.\l3g0_conv___Win32_Debug\int_percentage.obj
+.\l3g0_conv___Win32_Debug\light.obj
+.\l3g0_conv___Win32_Debug\light_off.obj
+.\l3g0_conv___Win32_Debug\lin_color_24.obj
+.\l3g0_conv___Win32_Debug\lin_color_f.obj
+.\l3g0_conv___Win32_Debug\local_axis.obj
+.\l3g0_conv___Win32_Debug\m3d_version.obj
+.\l3g0_conv___Win32_Debug\m3dmagic.obj
+.\l3g0_conv___Win32_Debug\master_scale.obj
+.\l3g0_conv___Win32_Debug\mat_ambient.obj
+.\l3g0_conv___Win32_Debug\mat_bump_display_per.obj
+.\l3g0_conv___Win32_Debug\mat_bump_map.obj
+.\l3g0_conv___Win32_Debug\mat_diffuse.obj
+.\l3g0_conv___Win32_Debug\mat_entry.obj
+.\l3g0_conv___Win32_Debug\mat_map_blur.obj
+.\l3g0_conv___Win32_Debug\mat_map_filename.obj
+.\l3g0_conv___Win32_Debug\mat_map_options.obj
+.\l3g0_conv___Win32_Debug\mat_map_rotation.obj
+.\l3g0_conv___Win32_Debug\mat_name.obj
+.\l3g0_conv___Win32_Debug\mat_reflect_blur.obj
+.\l3g0_conv___Win32_Debug\mat_self_illum.obj
+.\l3g0_conv___Win32_Debug\mat_shading.obj
+.\l3g0_conv___Win32_Debug\mat_shin_strength.obj
+.\l3g0_conv___Win32_Debug\mat_shininess.obj
+.\l3g0_conv___Win32_Debug\mat_specular.obj
+.\l3g0_conv___Win32_Debug\mat_tex1_map.obj
+.\l3g0_conv___Win32_Debug\mat_trans_falloff.obj
+.\l3g0_conv___Win32_Debug\mat_transparency.obj
+.\l3g0_conv___Win32_Debug\mat_wire_thickness.obj
+.\l3g0_conv___Win32_Debug\mdata.obj
+.\l3g0_conv___Win32_Debug\mesh_version.obj
+.\l3g0_conv___Win32_Debug\msh_mat_group.obj
+.\l3g0_conv___Win32_Debug\n_tri_object.obj
+.\l3g0_conv___Win32_Debug\named_object.obj
+.\l3g0_conv___Win32_Debug\point_array.obj
+.\l3g0_conv___Win32_Debug\spotlight.obj
+.\l3g0_conv___Win32_Debug\tex_verts.obj
+.\l3g0_conv___Win32_Debug\lg_bricklib.obj
+.\l3g0_conv___Win32_Debug\lg_bricklibentry.obj
+.\l3g0_conv___Win32_Debug\lg_brick.obj
+.\l3g0_conv___Win32_Debug\lg_object.obj
+.\l3g0_conv___Win32_Debug\lg_objectgroup.obj
+.\l3g0_conv___Win32_Debug\lg_objectlib.obj
+.\l3g0_conv___Win32_Debug\lg_objectinstance.obj
+.\l3g0_conv___Win32_Debug\lg_scene.obj
+.\l3g0_conv___Win32_Debug\ARB_Multisample.obj
+.\l3g0_conv___Win32_Debug\l3g0_conv.obj
+.\l3g0_conv___Win32_Debug\lg_buffer_functions.obj
+.\l3g0_conv___Win32_Debug\lg_color.obj
+.\l3g0_conv___Win32_Debug\lg_font2d.obj
+.\l3g0_conv___Win32_Debug\lg_opengl.obj
+.\l3g0_conv___Win32_Debug\lg_print.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\Danielle\LOCALS~1\Temp\RSP11C.tmp"
+<h3>Output Window</h3>
+Compiling...
+l3g0_conv.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+l3g0_conv.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

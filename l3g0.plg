@@ -1,0 +1,93 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: l3g0 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\Tycoon\LOCALS~1\Temp\RSP1F.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"Debug/l3g0.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\l3g0\src\bricklib\lg_bricklibentry.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Tycoon\LOCALS~1\Temp\RSP1F.tmp" 
+Creating temporary file "C:\DOCUME~1\Tycoon\LOCALS~1\Temp\RSP20.tmp" with contents
+[
+fmodvc.lib gdi32.lib user32.lib /nologo /subsystem:windows /incremental:yes /pdb:"Debug/l3g0.pdb" /debug /machine:I386 /out:"Debug/l3g0.exe" /pdbtype:sept 
+.\Debug\camera.obj
+.\Debug\color_24.obj
+.\Debug\color_f.obj
+.\Debug\face_array.obj
+.\Debug\face_smoothing.obj
+.\Debug\file_3ds.obj
+.\Debug\float_percentage.obj
+.\Debug\int_percentage.obj
+.\Debug\light.obj
+.\Debug\light_off.obj
+.\Debug\lin_color_24.obj
+.\Debug\lin_color_f.obj
+.\Debug\local_axis.obj
+.\Debug\m3d_version.obj
+.\Debug\m3dmagic.obj
+.\Debug\master_scale.obj
+.\Debug\mat_ambient.obj
+.\Debug\mat_bump_display_per.obj
+.\Debug\mat_bump_map.obj
+.\Debug\mat_diffuse.obj
+.\Debug\mat_entry.obj
+.\Debug\mat_map_blur.obj
+.\Debug\mat_map_filename.obj
+.\Debug\mat_map_options.obj
+.\Debug\mat_map_rotation.obj
+.\Debug\mat_name.obj
+.\Debug\mat_reflect_blur.obj
+.\Debug\mat_self_illum.obj
+.\Debug\mat_shading.obj
+.\Debug\mat_shin_strength.obj
+.\Debug\mat_shininess.obj
+.\Debug\mat_specular.obj
+.\Debug\mat_tex1_map.obj
+.\Debug\mat_trans_falloff.obj
+.\Debug\mat_transparency.obj
+.\Debug\mat_wire_thickness.obj
+.\Debug\mdata.obj
+.\Debug\mesh_version.obj
+.\Debug\msh_mat_group.obj
+.\Debug\n_tri_object.obj
+.\Debug\named_object.obj
+.\Debug\point_array.obj
+.\Debug\spotlight.obj
+.\Debug\tex_verts.obj
+.\Debug\lg_bricklib.obj
+.\Debug\lg_bricklibentry.obj
+.\Debug\lg_brick.obj
+.\Debug\lg_object.obj
+.\Debug\lg_objectgroup.obj
+.\Debug\lg_objectlib.obj
+.\Debug\lg_objectinstance.obj
+.\Debug\lg_scene.obj
+.\Debug\ARB_Multisample.obj
+.\Debug\l3g0.obj
+.\Debug\lg_buffer_functions.obj
+.\Debug\lg_color.obj
+.\Debug\lg_engine.obj
+.\Debug\lg_font2d.obj
+.\Debug\lg_image.obj
+.\Debug\lg_math.obj
+.\Debug\lg_opengl.obj
+.\Debug\lg_print.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\Tycoon\LOCALS~1\Temp\RSP20.tmp"
+<h3>Output Window</h3>
+Compiling...
+lg_bricklibentry.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+l3g0.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

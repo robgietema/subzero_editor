@@ -1,0 +1,44 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: l3g0_editor - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\Tycoon\LOCALS~1\Temp\RSP16E.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /Fp"l3g0_editor___Win32_Debug/l3g0_editor.pch" /YX /Fo"l3g0_editor___Win32_Debug/" /Fd"l3g0_editor___Win32_Debug/" /FD /GZ /c 
+"C:\code\js3deditor\src\lg_engine.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Tycoon\LOCALS~1\Temp\RSP16E.tmp" 
+Creating temporary file "C:\DOCUME~1\Tycoon\LOCALS~1\Temp\RSP16F.tmp" with contents
+[
+gdi32.lib user32.lib /nologo /subsystem:windows /incremental:yes /pdb:"l3g0_editor___Win32_Debug/l3g0_editor.pdb" /debug /machine:I386 /out:"l3g0_editor___Win32_Debug/l3g0_editor.exe" /pdbtype:sept 
+.\l3g0_editor___Win32_Debug\lg_level.obj
+.\l3g0_editor___Win32_Debug\lg_object.obj
+.\l3g0_editor___Win32_Debug\lg_point.obj
+.\l3g0_editor___Win32_Debug\ARB_Multisample.obj
+.\l3g0_editor___Win32_Debug\l3g0_editor.obj
+.\l3g0_editor___Win32_Debug\lg_buffer_functions.obj
+.\l3g0_editor___Win32_Debug\lg_color.obj
+.\l3g0_editor___Win32_Debug\lg_engine.obj
+.\l3g0_editor___Win32_Debug\lg_font2d.obj
+.\l3g0_editor___Win32_Debug\lg_image.obj
+.\l3g0_editor___Win32_Debug\lg_math.obj
+.\l3g0_editor___Win32_Debug\lg_opengl.obj
+.\l3g0_editor___Win32_Debug\lg_print.obj
+]
+Creating command line "link.exe @C:\DOCUME~1\Tycoon\LOCALS~1\Temp\RSP16F.tmp"
+<h3>Output Window</h3>
+Compiling...
+lg_engine.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+l3g0_editor.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
